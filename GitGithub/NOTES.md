@@ -3,8 +3,10 @@
 ## Main commands
 `git init` creates a hidden folder to start the repository <br>
 `git status` shows the status of the changes <br>
+`git log` shows all the records of the changes <br>
 `git add .` adds the files of the current folder to be committed -> staging state <br>
-`git commit ` <br> 
+`git commit -m "Update 1 on Jan 28, 2025"` Insert the changes in the repository <br> 
+
 
 ![Common commands in Git](./pics/gitcommands.png)
 
